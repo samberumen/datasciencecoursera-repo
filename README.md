@@ -1,2 +1,2 @@
 # datasciencecoursera-repo
-New Repo for Daata Science Class
+New Repo for Data Science Class
